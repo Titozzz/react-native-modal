@@ -1,5 +1,5 @@
 import RNModalWrapper from "./Modal/ModalWrapper";
-import RNModalHost from "./Modal/ModalHost";
+import RNModalRoot from "./Modal/ModalRoot";
 
-export const ModalHost = RNModalHost;
 export const Modal = RNModalWrapper;
+export const ModalRoot = RNModalRoot;
