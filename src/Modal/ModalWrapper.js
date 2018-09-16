@@ -1,5 +1,4 @@
 import * as React from "react";
-// import Portal from "../Portal/Portal";
 import Modal from "./Modal";
 import { createPortal } from "react-native/Libraries/Renderer/shims/ReactNative";
 import { getModalRootHandle } from './ModalRoot';
